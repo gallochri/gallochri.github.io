@@ -281,6 +281,7 @@ header .intro-text {
 }
 
 header .intro-text .intro-lead-in {
+	color: darkgoldenrod;
     margin-bottom: 25px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
@@ -289,6 +290,7 @@ header .intro-text .intro-lead-in {
 }
 
 header .intro-text .intro-heading {
+	color: darkgoldenrod;
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
